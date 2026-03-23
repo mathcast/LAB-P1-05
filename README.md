@@ -1,4 +1,4 @@
-# LAB P1-05: Implementação de um Transformer Simplificado para Tradução
+# LAB P1-05: Treinamento Fim-a-Fim do Transformer
 
 ## Como baixar o projeto
 
